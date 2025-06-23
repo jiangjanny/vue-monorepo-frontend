@@ -1,0 +1,5 @@
+packages:
+  - "common-utils"
+  - "host-app"
+  - "packages/*"
+  - "packages/*/*"

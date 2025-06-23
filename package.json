@@ -1,0 +1,8 @@
+{
+    "name": "vue-mf-monorepo",
+    "private": true,
+    "scripts": {
+        "build": "pnpm -r --parallel build",
+        "dev": "pnpm -r --parallel dev"
+    }
+}
